@@ -1,0 +1,120 @@
+❦═─⊱〘 𝐼𝑁𝐹𝑂 〙⊰══
+║
+║─⊱ mhyw SELF-BOT
+║─⊱ OWNER : mhyw
+║─⊱ Wa.me/6282338122626
+║─⊱ Instagram : @mhyw_617
+▣═─⊱【 MENU 】⊰─══
+║
+║─⊱ Me
+║─⊱ Clear
+║─⊱ Tagall
+║─⊱ Removechat
+║─⊱ Sticker (with_reply)
+║─⊱ Removebg (with_reply)
+║─⊱ Searchanime (with_reply)
+║─⊱ Tiktok profile {username}
+║─⊱ Tiktok download {url_post}
+║─⊱ Tiktok hastag {query}
+║─⊱ Instagram profile {username}
+║─⊱ Instagram story {username}
+║─⊱ Instagram tv {username}
+║─⊱ Instagram highlight {username}
+║─⊱ Instagram hastag {query}
+║─⊱ Instagram download {url_post}
+║─⊱ Facebook download {url_post}
+║─⊱ Youtube search {query}
+║─⊱ Youtube mp3 {query}
+║─⊱ Youtube download {url}
+║─⊱ Googlesearch {query}
+║─⊱ Googleimage {query}|{value}
+║─⊱ Playstore {query}
+║─⊱ Smule record {username}
+║─⊱ Smule download {url}
+║─⊱ Starmaker download {url}
+║─⊱ Cocofun download {url}
+║─⊱ Xxx-search {query}
+║─⊱ Xxx-download {link}
+║─⊱ Lk21 {query}
+║─⊱ Neonimesearch {query}
+║─⊱ Nekopoisearch {query}
+║─⊱ Nekohentai
+║─⊱ Neko3d
+║─⊱ Nekojavcosplay
+║─⊱ Nekonewepisode
+║─⊱ Nekojavlist
+║─⊱ Ongoinganoboy
+║─⊱ Nhentaisearch {query}
+║─⊱ Nhentaidownload {query}
+║─⊱ Nhentairandom
+║─⊱ Joox {query}
+║─⊱ Lirik {query}
+║─⊱ Chord {query}
+║─⊱ Pinterest {query}
+║─⊱ Pinterdownload {link}
+║─⊱ Zodiak {query}
+║─⊱ Wikipedia {query}
+║─⊱ Brainly {query}
+║─⊱ Kbbi {query}
+║─⊱ Calcu {value}
+║─⊱ Corona {country}
+║─⊱ Cuaca {kota}
+║─⊱ Bmkg
+║─⊱ Cekresi {query}
+║─⊱ Cekongkir {query}
+║─⊱ Togel
+║─⊱ Kurs
+║─⊱ Resep {query}
+║─⊱ Shopee {query}
+║─⊱ Gsmarena {query}
+║─⊱ Quranlist
+║─⊱ Jadwalsholat {kota}
+║─⊱ Artinama {nama}
+║─⊱ Artimimpi {query}
+║─⊱ Jodoh {nama}|{nama}
+║─⊱ Weton {date}|(month}|{year}
+║─⊱ Nomor {nomor hp}
+║─⊱ Harijadian {date}|(month}|{year}
+║─⊱ Herolistml
+║─⊱ Heroml {query}
+║─⊱ Ipwho {IP_ADDR}
+║─⊱ Textsceen {query}
+║─⊱ Ceritasex
+║─⊱ Randompuisi
+║─⊱ Randompantun
+║─⊱ Quoteid
+║─⊱ Quotes
+║─⊱ Randomcat
+║─⊱ Randomnekonime
+║─⊱ Randomloli
+║─⊱ Randomwibu
+║─⊱ Urlshortener {Link}
+║─⊱ Ssweb {linkweb}|{type}
+║─⊱ Jarak {kota}|{kota}
+║─⊱ Alamat {query}
+║─⊱ Berita terbaru
+║─⊱ Jadwal bola
+║─⊱ Motor {query)
+║─⊱ Mobil {query}
+║─⊱ Otakusearch {query}
+║─⊱ Otakulatest
+║─⊱ Nulis {query}
+║─⊱ Wasticker {query}
+║─⊱ Watertext {query}
+║─⊱ Swatertext {query}
+║─⊱ Firetext {query}
+║─⊱ Sfiretext {query}
+║─⊱ Metaltext {query}
+║─⊱ Smetaltext {query}
+║─⊱ Ballontext {query}|{query}
+║─⊱ Sballontext {query}|{query}
+║─⊱ Padlock {query}|{query}
+║─⊱ Spadlock {query}|{query}
+║─⊱ Giftext {query)
+║─⊱ Sgiftext {query)
+║
+▣══─⊱ 【 mhyw SELF-BOT 】 ⊰─══
+
+*SCRIPT ORI BY : VHTEAR*
+*RECODE BY : mhyw*
+*GITHUB :* https://github.com/fckveza
